@@ -5,6 +5,8 @@ Code to transform two input images to reidentification pyplt png.
 # Installation
 
 ```
+git clone https://github.com/neuroleptik/reid_plot.git
+
 Python version : 3.7.6 (can works on older versions)
 pip install torch torchvision
 pip install -r requirements.txt
