@@ -1,2 +1,2 @@
-Pillow==2.2.2
+Pillow==6.2.2
 matplotlib==3.2.1
