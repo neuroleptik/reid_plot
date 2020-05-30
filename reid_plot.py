@@ -5,8 +5,11 @@ import argparse
 import torch
 from PIL import Image
 import torchvision.transforms as T
+import sys
 import os.path
 from os import path
+sys.path.insert(1, './lib/')
+import torchreid
 
 # preprocessing of image before inference
 # argument : path to an image
