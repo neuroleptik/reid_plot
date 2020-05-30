@@ -18,7 +18,7 @@ pip install -r requirements.txt
 To execute the script, please specify the two input images as follows :
 
 ```
-python ./reid_plot path/to/img1.xxx path/to/other/img.xxx
+python ./reid_plot.py path/to/img1.xxx path/to/other/img.xxx
 
 ```
 
