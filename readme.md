@@ -1,5 +1,5 @@
 # Reid plot tool
-Code to transform two input images to reidentification pyplt png.  
+##Code to transform two input images to reidentification pyplt png.  
 ![210](https://user-images.githubusercontent.com/46196875/83356833-e90b9c80-a368-11ea-8e46-a167509204bf.png)
 
 # Installation
