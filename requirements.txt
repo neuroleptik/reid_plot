@@ -1,4 +1,4 @@
-Pillow==7.1.2
+Pillow==10.0.1
 matplotlib==3.2.1
 scipy
 opencv-python
